@@ -2,15 +2,7 @@
 
 > **AI-powered travel planning application** that generates personalized travel itineraries based on your budget, destination, travel companions, interests, and preferences using **Google Gemini AI**.
 
-<p align="center">
-  <a href="https://ai-trip-planner-tau-brown.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/diegovilhalva/ai-trip-planner">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-</p>
+
 
 ---
 
