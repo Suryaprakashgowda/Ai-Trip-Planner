@@ -266,7 +266,7 @@ ai-trip-planner/
 Clone repository
 
 ```bash
-git clone https://github.com/username/ai-trip-planner.git
+git clone https://github.com/suryaprakashgowda/ai-trip-planner.git
 ```
 
 Go to project
@@ -486,13 +486,13 @@ This project is licensed under the **MIT License**.
 **Your Name**
 
 GitHub:
-https://github.com/yourusername
+https://github.com/suryaprakashgowda
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/suryaprakashgowda
 
 Portfolio:
-https://yourportfolio.com
+https://surya-pystack-portfolio.vercel.app/
 
 ---
 
